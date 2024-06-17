@@ -1,1 +1,5 @@
-
+title: Belal Ahmed Siddiqui
+#logo: /assets/img/headshot_circle.png
+description: Welcome To My Portfolio.
+show_downloads: true
+theme: jekyll-theme-minimal
