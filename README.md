@@ -10,6 +10,13 @@ Welcome to my data science portfolio! Here you'll find projects and information 
 - **Deep Learning:** Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs)
 
 
-## Education						       		
-- M.Tech | Indian Statistical Institute.	 			        		
-- B.Tech | Aligarh Muslim University.
+## Education
+
+- **M.Tech**
+  - Indian Statistical Institute
+  - Coursework: Statistical Methods, Probability, Business Analytics, DBMS.
+
+- **B.Tech**
+  - Aligarh Muslim University
+  - Coursework: Engineering Mathematics, C Programming.
+
