@@ -14,9 +14,9 @@ Welcome to my data science portfolio! Here you'll find projects and information 
 
 - **M.Tech**
   - Indian Statistical Institute
-  - Coursework: Statistical Methods, Probability, Business Analytics, DBMS.
+  - *Coursework: Statistical Methods I, Statistical Methods II, Probability, Business Analytics, DBMS, Design of Experiments, Operations Research.*
 
 - **B.Tech**
   - Aligarh Muslim University
-  - Coursework: Engineering Mathematics, C Programming.
+  - *Coursework: Engineering Mathematics, C Programming.*
 
