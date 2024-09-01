@@ -39,17 +39,15 @@ I'm a data science enthusiast currently pursuing my **M.Tech** at the [Indian St
 
 ## 💼 Experience
 
-- **Summer Intern | Indian Statistical Institute**
+- **Summer Intern @ Indian Statistical Institute**
   
   - *Predicting Shipment Weights in FMCG Supply Chain*
-    
-  - Developed a predictive model for shipment weights, enhancing logistical efficiency.
 
   - Conducted Exploratory Data Analysis and Data Preprocessing.
 
   - Applied Linear Regression, Decision Trees, and Random Forest, achieving an R² score of 0.9.
 
-- **Data Analyst Intern | MedTourEasy**
+- **Data Analyst Intern @ MedTourEasy**
   - *Predict Blood Donation*
 
   - Predicted donor behavior with Logistic Regression, achieving an AUC score of 0.7891.
@@ -84,6 +82,8 @@ I'm a data science enthusiast currently pursuing my **M.Tech** at the [Indian St
 
 - Authored 90+ answers on [Quora](https://www.quora.com/profile/Belal-Ahmed-Siddiqui) with over 650,000 views.
 - Ranked in the top 14% out of 15,139 participants in the Kaggle Titanic Survival Prediction competition.
+- Write 25+ engaging and informative blogs on [Medium](https://medium.com/@stoic_sapien1).
+- Created several Telegram communities to guide students for ISI Entrance Examination.
 
 ---
 
