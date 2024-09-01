@@ -40,27 +40,31 @@ I'm a data science enthusiast currently pursuing my **M.Tech** at the [Indian St
 ## 💼 Experience
 
 - **Summer Intern | Indian Statistical Institute**
+  
   - *Predicting Shipment Weights in FMCG Supply Chain*
-  - Kolkata, WB | May 2024 - July 2024
+    
   - Developed a predictive model for shipment weights, enhancing logistical efficiency.
+
   - Conducted Exploratory Data Analysis and Data Preprocessing.
+
   - Applied Linear Regression, Decision Trees, and Random Forest, achieving an R² score of 0.9.
 
 - **Data Analyst Intern | MedTourEasy**
   - *Predict Blood Donation*
-  - Remote | September 2023 - October 2023
-  - Predicted donor behavior with Logistic Regression, achieving an AUC score of 0.7891.
-  - Deployed the model using Streamlit for real-time predictions.
 
+  - Predicted donor behavior with Logistic Regression, achieving an AUC score of 0.7891.
+    
+  - Deployed the model using Streamlit for real-time predictions.
+    
 ---
 
 ## 🛠️ Projects
 
 - **[ISI QROR WebApp](https://github.com/stoicsapien1/isi-qror-webapp)**
-  - A platform for M.Tech QROR students offering resources for Semester 1 and 2.
+  - Created a Web App using Streamlit that offers all the essential resources for both Semester 1 and 2 syllabi, including lecture notes, textbooks, and research papers.
 
 - **[Kaggle Titanic Survival Prediction](https://github.com/stoicsapien1/Titanic_Survival_Prediction)**
-  - Predicts Titanic survival using features like age, sex, and class.
+  - This project uses machine learning algorithms to predict the survival of passengers on the Titanic based on various features such as age, sex, class, and more.
 
 - **[Flight Fare Prediction](https://github.com/stoicsapien1/FLIGHT_FARE_PREDICTION)**
   - Predicts flight fares based on airline, journey date, and other features.
