@@ -1,10 +1,5 @@
-title: Belal Ahmed Siddiqui
 logo: assets/img/profile.jpg
 description: Welcome To My Portfolio.
 show_downloads: false
+theme: jekyll-theme-minimal
 
-# Set the theme
-theme: minimal-mistakes-jekyll
-
-# Additional configuration options for Minimal Mistakes
-minimal_mistakes_skin: "air"
