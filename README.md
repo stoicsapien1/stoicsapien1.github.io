@@ -86,10 +86,10 @@ I'm a data science enthusiast currently pursuing my **M.Tech** at the [Indian St
 ## 🌐 Connect with Me
 
 - **[GitHub](https://github.com/stoicsapien1)**
-- **[LinkedIn](https://www.linkedin.com/in/belal-ahmed-siddiqui)**
-- **[Quora](https://www.quora.com/profile/Belal-Ahmed-Siddiqui)**
-- **[Kaggle](https://www.kaggle.com/belal-ahmed-siddiqui)**
-- **[Blog](https://medium.com/@belalahmedsiddiqui)**
+- **[LinkedIn](https://www.linkedin.com/in/stoicsapien1)**
+- **[Quora](https://www.quora.com/profile/BELAL-AHMED-SIDDIQUI-2)**
+- **[Kaggle](https://www.kaggle.com/stoicsapien1)**
+- **[Blog](https://medium.com/@stoic_sapien1)**
 
 Thank you for visiting my portfolio! Feel free to explore my projects and connect with me for collaborations or inquiries.
 
