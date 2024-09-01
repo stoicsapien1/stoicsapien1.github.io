@@ -2,4 +2,10 @@ title: Belal Ahmed Siddiqui
 logo: assets/img/profile.jpg
 description: Welcome To My Portfolio.
 show_downloads: false
-theme: jekyll-theme-hacker
+
+# Set the theme
+remote_theme: pages-themes/midnight@v0.2.0
+
+# Add this line to the plugins list if you already have one
+plugins:
+  - jekyll-remote-theme
