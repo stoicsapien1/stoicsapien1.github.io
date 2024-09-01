@@ -41,17 +41,13 @@ I'm a data science enthusiast currently pursuing my **M.Tech** at the [Indian St
 
 - **Summer Intern @ Indian Statistical Institute**
   
-  - *Predicting Shipment Weights in FMCG Supply Chain*
-
+  - **Predicting Shipment Weights in FMCG Supply Chain**
   - Conducted Exploratory Data Analysis and Data Preprocessing.
-
   - Applied Linear Regression, Decision Trees, and Random Forest, achieving an R² score of 0.9.
 
 - **Data Analyst Intern @ MedTourEasy**
-  - *Predict Blood Donation*
-
+  - **Predict Blood Donation**
   - Predicted donor behavior with Logistic Regression, achieving an AUC score of 0.7891.
-    
   - Deployed the model using Streamlit for real-time predictions.
     
 ---
