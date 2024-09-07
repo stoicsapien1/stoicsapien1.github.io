@@ -1,10 +1,7 @@
 remote_theme: daattali/beautiful-jekyll@5.0.0
 title: Belal Ahmed Siddiqui - Portfolio
 description: Welcome To My Portfolio.
-navbar-links:
-  About Me: "/about"
-  Projects: "projects"
-  Contact: "contact"
+
 social-network-links:
   email: "belalahmedsiddiqui8@gmail.com"
   github: stoicsapien1
