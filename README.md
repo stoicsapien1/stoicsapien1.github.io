@@ -1,8 +1,4 @@
-# 👋 Hello, I'm Belal Ahmed Siddiqui
 
-Welcome to my data science portfolio! Here, you'll find a collection of my projects, skills, and experiences that showcase my expertise in data science, machine learning, and programming.
-
----
 
 ## 📚 About Me
 
