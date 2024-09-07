@@ -1,5 +1,11 @@
-logo: assets/img/profile.jpg
-description: Welcome To My Portfolio.
-show_downloads: false
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Your Name - Portfolio
+description: Welcome to my professional portfolio
+readme_index:
+  enabled: true
+  remove_originals: false
+github:
+  is_project_page: false
 
