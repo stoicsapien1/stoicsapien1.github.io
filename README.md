@@ -76,7 +76,7 @@ I'm a data science enthusiast currently pursuing my **M.Tech** at the [Indian St
 
 ## 🌟 Extracurricular Activities
 
-- Authored 90+ answers on [Quora](https://www.quora.com/profile/Belal-Ahmed-Siddiqui) with over 650,000 views.
+- Authored 90+ answers on [Quora](https://www.quora.com/profile/BELAL-AHMED-SIDDIQUI-2) with over 650,000 views.
 - Ranked in the top 14% out of 15,139 participants in the Kaggle Titanic Survival Prediction competition.
 - Wrote 25+ engaging and informative blogs on [Medium](https://medium.com/@stoic_sapien1).
 - Created several online communities to guide students for ISI Entrance Examination.
