@@ -1,8 +1,19 @@
 remote_theme: daattali/beautiful-jekyll@5.0.0
-title: Belal Ahmed Siddiqui - Portfolio
-description: Welcome To My Portfolio.
 
+# Site settings
+title: Belal Ahmed Siddiqui - Portfolio
+description: Welcome To My Portfolio
+
+# Social media links
 social-network-links:
   email: "belalahmedsiddiqui8@gmail.com"
   github: stoicsapien1
   linkedin: stoicsapien1
+  quora: BELAL-AHMED-SIDDIQUI-2
+
+# Navbar links
+navbar-links:
+  About Me: "about"
+  GitHub: "https://github.com/stoicsapien1"
+  LinkedIn: "https://www.linkedin.com/in/stoicsapien1"
+  Quora: "https://www.quora.com/profile/BELAL-AHMED-SIDDIQUI-2"
