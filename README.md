@@ -18,7 +18,7 @@ I'm a data science enthusiast currently pursuing my **M.Tech** at the [Indian St
 
 ## 🛠️ Technical Skills
 
-- **Programming Languages:** Python, SQL
+- **Programming Languages:** Python.
 - **Libraries/Frameworks:** Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Streamlit
 - **Data Analysis:** Exploratory Data Analysis (EDA)
 - **Machine Learning:** Supervised & Unsupervised Learning, Model Evaluation, Feature Engineering
