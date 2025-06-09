@@ -18,7 +18,7 @@ I'm a data science enthusiast currently pursuing my **M.Tech** at the [Indian St
 
 ## 🛠️ Technical Skills
 
-- **Programming Languages:** Python.
+- **Programming Languages:** Python,SQL
 - **Libraries/Frameworks:** Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Streamlit
 - **Data Analysis:** Exploratory Data Analysis (EDA)
 - **Machine Learning:** Supervised & Unsupervised Learning, Model Evaluation, Feature Engineering
@@ -39,16 +39,29 @@ I'm a data science enthusiast currently pursuing my **M.Tech** at the [Indian St
 
 ## 💼 Experience
 
-- **Summer Intern @ Indian Statistical Institute**
-  
-  - **Predicting Shipment Weights in FMCG Supply Chain**
-  - Conducted Exploratory Data Analysis and Data Preprocessing.
-  - Applied Linear Regression, Decision Trees, and Random Forest, achieving an R² score of 0.9.
+### **Quantitative Research Intern @ BlackRock**  
+**INR Corporate Bond Risk Model**  
+- Built a multi-factor risk model to support investment decisions in the Indian rupee (INR) corporate bond market.  
+- Conducted detailed analysis on a universe of 5,000+ bonds across ~300 issuers — summarized spread, return, and maturity distributions.  
+- Classified bonds into Public Sector Undertakings (PSUs) and non-PSUs for comparative insights.  
+- Collaborated with cross-functional teams and industry experts to identify distressed and illiquid segments by flagging bonds with high spreads (>400 bps) and negative spreads.  
+- Developed cross-sectional models using Weighted Least Squares (WLS) regression — starting with a single market factor and adding PSU status, maturity buckets, and sector factors.  
+- Evaluated model performance at both bond and index levels using R² and adjusted R² metrics.
 
-- **Data Analyst Intern @ MedTourEasy**
-  - **Predict Blood Donation**
-  - Predicted donor behavior with Logistic Regression, achieving an AUC score of 0.7891.
-  - Deployed the model using Streamlit for real-time predictions.
+---
+
+### **Summer Intern @ Indian Statistical Institute**  
+**Predicting Shipment Weights in FMCG Supply Chain**  
+- Conducted Exploratory Data Analysis and Data Preprocessing.  
+- Applied Linear Regression, Decision Trees, and Random Forest models — achieved an R² score of **0.9**.
+
+---
+
+### **Data Analyst Intern @ MedTourEasy**  
+**Predict Blood Donation**  
+- Predicted donor behavior using Logistic Regression — achieved an AUC score of **0.7891**.  
+- Deployed the model with **Streamlit** for real-time prediction.
+
     
 ---
 
