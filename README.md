@@ -59,7 +59,7 @@ I'm a data science enthusiast currently pursuing my **M.Tech** at the [Indian St
 
 ### **Data Analyst Intern @ MedTourEasy**  
 **Predict Blood Donation**  
-- Predicted donor behavior using Logistic Regression — achieved an AUC score of **0.7891**.  
+- Predicted donor behavior using Logistic Regression — achieved an accuracy score of **0.7891**.  
 - Deployed the model with **Streamlit** for real-time prediction.
 
     
@@ -82,8 +82,7 @@ I'm a data science enthusiast currently pursuing my **M.Tech** at the [Indian St
 - **[Used Car Price Prediction](https://github.com/stoicsapien1/Car_Price_Prediction)**
   - Predicts used car prices based on features like age, fuel type, and transmission.
 
-- **[EDAverse](https://github.com/stoicsapien1/EDAverse)**
-  - Generates comprehensive data profiling and EDA reports with Streamlit.
+
 
 ---
 
